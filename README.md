@@ -1,24 +1,40 @@
+<!--
+ * @Author: Jack Jparrow
+ * @Date: 2022-05-29 09:01:48
+ * @LastEditTime: 2022-06-14 09:55:05
+ * @LastEditors: Jack Jparrow
+ * @Description: ReadMe
+-->
 # jmd
 
-## Project setup
+## Function
+
+- work as a normal markdown editor
+
+- open/save file
+
+- save file as html or other types like txt/md...
+
+### Environment required
+
+nodejs, vue2, electron
+
+### Important files
+open the following files to get details
 ```
-npm install
+/package.json
+/src/App.vue
+/src/backround.js
+/src/main.js
 ```
 
-### Compiles and hot-reloads for development
+### How to run
+``` bash
+cd jmd
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+``` bash
+npm run elctron:serve
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Reference
+See [使用 Vue 和 Electron 开发一款简单的 Markdown 编辑器](https://blog.csdn.net/qq_53126706/article/details/121972983#t4).
