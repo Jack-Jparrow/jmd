@@ -15,6 +15,10 @@
 
 - save file as html or other types like txt/md...
 
+## Notice
+
+You need to configure environment yourself
+
 ### Environment required
 
 nodejs, vue2, electron
