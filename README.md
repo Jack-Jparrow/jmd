@@ -47,4 +47,4 @@ npm run elctron:serve
 See [使用 Vue 和 Electron 开发一款简单的 Markdown 编辑器](https://blog.csdn.net/qq_53126706/article/details/121972983#t4).
 
 ### OSCS
-[![OSCS Status](https://www.oscs1024.com/platform/badge/Jack-Jparrow/jmd.svg?size=small)](https://www.oscs1024.com/project/Jack-Jparrow/jmd?ref=badge_small)
+[![OSCS Status](https://www.oscs1024.com/platform/badge/Jack-Jparrow/jmd.svg?size=large)](https://www.oscs1024.com/project/Jack-Jparrow/jmd?ref=badge_large)
